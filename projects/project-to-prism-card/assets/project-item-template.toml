@@ -1,0 +1,20 @@
+[[items]]
+title = "Project Title"
+subtitle = "Short Project Positioning"
+date = "2026"
+image = "/projects/project-slug-preview.svg"
+image_label = "Preview"
+image_aspect = "16 / 9"
+content = "One-sentence summary of the practical goal and design idea."
+details_label = "Project Details"
+details = """State the core design in plain language.
+State your contribution and why the system is reliable or useful."""
+link = "https://github.com/yourname/project-repo"
+link_label = "Project Homepage"
+gallery_title = "Visual Walkthrough"
+gallery = [
+  { src = "/projects/project-slug-origin.jpg", alt = "Raw input", caption = "Origin" },
+  { src = "/projects/project-slug-process.jpg", alt = "Intermediate result", caption = "Process" },
+  { src = "/projects/project-slug-output.jpg", alt = "Final output", caption = "Output" }
+]
+tags = ["Tag 1", "Tag 2", "Tag 3", "Tag 4"]
